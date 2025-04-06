@@ -16,7 +16,7 @@
 
 
 
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：这是我的个人网站
+- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://aurorp1g.github.io/favicon.ico"></a>：这是我的个人网站
 
 
 
