@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
 
-## 一只低调的程序猿 — Aurorp1g <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+## 一只努力学习的程序猿 — Aurorp1g <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
 ### 自我介绍
 
