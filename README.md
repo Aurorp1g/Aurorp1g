@@ -18,6 +18,7 @@
 - <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="./favicon.ico"></a>：这是我的个人网站 🧐
 
 ### 技术栈
+![Python](https://img.shields.io/badge/-Python-%23972fcd?style=flat&logo=OPENJDK)
 ![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
 ![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
