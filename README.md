@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
+
 
 ## 一只低调的程序猿 — Aurorp1g <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
@@ -8,6 +8,7 @@
 
 - 大家好，我是Aurorp1g，来自广东汕头
 - 目前是一名网络工程在读本科生
+- 同时研究网络安全、逆向工程、编程
 - 对数据结构与算法、coding、底层计算机感兴趣
 - 欢迎光临我的Github 🍧
 
@@ -16,7 +17,7 @@
 
 
 
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://aurorp1g.github.io/favicon.ico"></a>：这是我的个人网站
+- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：这是我的个人网站
 
 
 
@@ -40,24 +41,25 @@
 
 
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Aurorp1g.github.io&theme=tokyonight)](https://github.com/Aurorp1g/Aurorp1g.github.io)
 &emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Machine-Learning-From-Scratch&theme=tokyonight)](https://github.com/Aurorp1g/Machine-Learning-From-Scratch)
 <br>
 
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/Aurorp1g/DeleteSpace_and_Translation)
 <br> -->
 
 <!-- ### 编程语言 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurorp1g&langs_count=6&theme=tokyonight) -->
 
 ### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=tokyonight)
+[![](https://activity-graph.herokuapp.com/graph?username=Aurorp1g&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Aurorp1g's github stats](https://github-readme-stats.vercel.app/api?username=Aurorp1g&show_icons=true&theme=tokyonight)
 
 ### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fomalhaut1998&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fomalhaut1998&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 <br>
+
