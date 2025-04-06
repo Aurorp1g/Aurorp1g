@@ -1,14 +1,14 @@
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
-## 一只低调的猕猴桃—Fomalhaut🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+## 一只低调的程序猿 — Aurorp1g <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
 ### 自我介绍
 
 <div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
 
-- 大家好，我是🥝，来自广东江门
-- 目前是一名机械在读研究生
-- 对数据结构与算法、前端、Linux驱动感兴趣
+- 大家好，我是Aurorp1g，来自广东汕头
+- 目前是一名网络工程在读本科生
+- 对数据结构与算法、coding、底层计算机感兴趣
 - 欢迎光临我的Github 🍧
 
 
@@ -16,9 +16,8 @@
 
 
 
-- <a href="https://www.fomal.cc"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量累计30万+
-- <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10万+，粉丝累计1400+
-- <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计100+
+- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：这是我的个人网站
+
 
 
 
@@ -60,9 +59,5 @@
 [![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fomalhaut1998&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-
-### 投喂作者🍭🍭🍭
-
-<a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 
 <br>
