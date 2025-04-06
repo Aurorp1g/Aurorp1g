@@ -43,7 +43,7 @@
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Aurorp1g.github.io&theme=tokyonight)](https://github.com/Aurorp1g/Aurorp1g.github.io)
 &emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Machine-Learning-From-Scratch&theme=tokyonight)](https://github.com/Aurorp1g/Machine-Learning-From-Scratch)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=tokyonight)](https://github.com/Aurorp1g/Happy_Birthday)
 <br>
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/Aurorp1g/DeleteSpace_and_Translation)
