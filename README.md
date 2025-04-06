@@ -17,7 +17,7 @@
 
 
 
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="./img/favicon.ico"></a>：这是我的个人网站
+- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="./favicon.ico"></a>：这是我的个人网站
 
 
 
