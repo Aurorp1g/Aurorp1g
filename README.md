@@ -6,7 +6,7 @@
 
 <div><img align="right" alt="GIF" src="./cartoon.webp" width="300" height="100%" /></div>
 
-- 大家好，我是Aurorp1g，来自广东汕头🗻
+- 大家好，我是 Aurorp1g ，来自广东汕头🗻
 - 目前是一名网络工程在读本科生 👨‍🎓
 - 同时研究网络安全、逆向工程、编程 👨‍💻
 - 对数据结构与算法、coding、底层计算机感兴趣 👀
