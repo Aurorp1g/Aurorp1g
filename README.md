@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
 
-## 一只努力学习的程序猿 — Aurorp1g <img src="/cartoon.gif" alt="Hi" width="42" /> 
+## 一只努力学习的程序猿 — Aurorp1g <img src="/cartoon.gif" alt="Hi" width="45" /> 
 
 ### 自我介绍
 
