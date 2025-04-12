@@ -39,7 +39,7 @@
 ### 编程语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurorp1g&langs_count=6&theme=tokyonight)
 
-<div><img align="right" alt="GIF" src="/wusaqi.gif" width="250" height="100%" /></div>
+<div><img align="right" alt="GIF" src="/wusaqi.gif" width="1800" height="100%" /></div>
 
 ### Github 状态图
 [![](https://activity-graph.herokuapp.com/graph?username=Aurorp1g&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
