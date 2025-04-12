@@ -36,9 +36,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Discrete_Mathematics&theme=tokyonight)](https://github.com/Aurorp1g/Discrete_Mathematics)
 <br>
 
-<div style="text-align: right; padding-right: 50px;">
-  <img alt="GIF" src="/wusaqi.gif" width="180" height="100%" />
-</div>
+<div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="100%" /></div>
 
 ### 编程语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurorp1g&langs_count=6&theme=tokyonight)
