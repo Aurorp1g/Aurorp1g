@@ -15,7 +15,8 @@
 
 ### 社交主页
 
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="/favicon.ico"></a>：这是我的个人网站 🧐
+- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="/favicon.ico"></a>：这是我的个人网站 🌐
+- <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
 ### 技术栈
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
