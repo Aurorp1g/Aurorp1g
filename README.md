@@ -39,7 +39,7 @@
 <div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="100%" /></div>
 
 ### 编程语言
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=15&theme=tokyonight" alt="Aurorp1g" width="350" height="300">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" alt="Aurorp1g" width="350" height="300">
 
 ### Github 状态图
 [![](https://activity-graph.herokuapp.com/graph?username=Aurorp1g&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
