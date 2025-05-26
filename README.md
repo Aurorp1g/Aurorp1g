@@ -35,6 +35,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=tokyonight)](https://github.com/Aurorp1g/Happy_Birthday)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Discrete_Mathematics&theme=tokyonight)](https://github.com/Aurorp1g/Discrete_Mathematics)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=CTF_Zone&theme=tokyonight)](https://github.com/Aurorp1g/CTF_Zone)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=tokyonight)](https://github.com/Aurorp1g/Auto_Connect)
 <br>
 
 <div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="100%" /></div>
