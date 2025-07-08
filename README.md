@@ -38,7 +38,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=tokyonight  )](https://github.com/Aurorp1g/Auto_Connect  )
 <br>
 
-<div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="100%" /></div>
+<div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="auto" /></div>
 
 ### 编程语言
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=tokyonight  " alt="Aurorp1g" width="350" height="250">
