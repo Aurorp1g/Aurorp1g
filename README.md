@@ -4,7 +4,7 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="/cartoon.webp" width="200" height="auto" /></div>
+<div><img align="right" alt="GIF" src="/cartoon.webp" width="250" height="auto" /></div>
 
 - 大家好，我是 Aurorp1g ，来自广东汕头🗻
 - 目前是一名网络工程在读本科生 👨‍🎓
