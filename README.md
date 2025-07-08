@@ -1,10 +1,8 @@
-<img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
-
-## 一只努力学习的程序猿 — Aurorp1g <img src="/cartoon.gif" alt="Hi" width="70" /> 
+## 一只努力学习的程序猿 — Aurorp1g <img src="https://raw.githubusercontent.com/your-repo/your-branch/your-path-to-image/cartoon.gif" alt="Hi" width="70" /> 
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="/cartoon.webp" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://raw.githubusercontent.com/your-repo/your-branch/your-path-to-image/cartoon.webp" width="300" height="auto" /></div>
 
 - 大家好，我是 Aurorp1g ，来自广东汕头🗻
 - 目前是一名网络工程在读本科生 👨‍🎓
@@ -12,11 +10,10 @@
 - 对数据结构与算法、coding、底层计算机感兴趣 👀
 - 欢迎光临我的Github 🍧
 
-
 ### 社交主页
 
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="/favicon.ico"></a>：这是我的个人网站 🌐
-- <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="/bilibili.ico"></a>：这是我的Bilibili主页 📺
+- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://your-repo/your-branch/your-path-to-image/favicon.ico"></a>：这是我的个人网站 🌐
+- <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="https://your-repo/your-branch/your-path-to-image/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
 ### 技术栈
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
@@ -29,7 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
-
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Aurorp1g.github.io&theme=tokyonight)](https://github.com/Aurorp1g/aurorp1g.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=tokyonight)](https://github.com/Aurorp1g/Happy_Birthday)
@@ -38,7 +34,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=tokyonight)](https://github.com/Aurorp1g/Auto_Connect)
 <br>
 
-<div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://raw.githubusercontent.com/your-repo/your-branch/your-path-to-image/wusaqi.gif" width="180" height="auto" /></div>
 
 ### 编程语言
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=tokyonight" alt="Aurorp1g" width="350" height="250">
