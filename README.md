@@ -2,7 +2,7 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://raw.githubusercontent.com/your-repo/your-branch/your-path-to-image/cartoon.webp" width="300" height="auto" /></div>
+<div><img align="right" alt="GIF" src="/cartoon.webp" width="300" height="auto" /></div>
 
 - 大家好，我是 Aurorp1g ，来自广东汕头🗻
 - 目前是一名网络工程在读本科生 👨‍🎓
