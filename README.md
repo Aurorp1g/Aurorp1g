@@ -4,7 +4,7 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="/cartoon.webp" width="250" height="auto" /></div>
+<div><img align="right" alt="GIF" src="/cartoon.webp" width="300" height="100%" /></div>
 
 - 大家好，我是 Aurorp1g ，来自广东汕头🗻
 - 目前是一名网络工程在读本科生 👨‍🎓
@@ -38,7 +38,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=tokyonight  )](https://github.com/Aurorp1g/Auto_Connect  )
 <br>
 
-<div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="auto" /></div>
+<div><img align="right" alt="GIF" src="/wusaqi.gif" width="180" height="100%" /></div>
 
 ### 编程语言
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=tokyonight  " alt="Aurorp1g" width="350" height="250">
