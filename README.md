@@ -33,7 +33,7 @@
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Aurorp1g.github.io&theme=tokyonight)](https://github.com/Aurorp1g/aurorp1g.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=tokyonight)](https://github.com/Aurorp1g/Happy_Birthday)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Discrete_Mathematics&theme=tokyonight)](https://github.com/Aurorp1g/Discrete_Mathematics)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Cheqory&theme=tokyonight)](https://github.com/Aurorp1g/Cheqory)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=tokyonight)](https://github.com/Aurorp1g/Sensitive_Data_System)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=tokyonight)](https://github.com/Aurorp1g/Auto_Connect)
 <br>
