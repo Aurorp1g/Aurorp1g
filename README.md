@@ -31,21 +31,21 @@
 
 
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Aurorp1g.github.io&theme=tokyonight)](https://github.com/Aurorp1g/aurorp1g.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=tokyonight)](https://github.com/Aurorp1g/Happy_Birthday)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=tokyonight)](https://github.com/Aurorp1g/Sensitive_Data_System)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=tokyonight)](https://github.com/Aurorp1g/Auto_Connect)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Cheqory&theme=tokyonight)](https://github.com/Aurorp1g/Cheqory)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Aurorp1g.github.io&theme=github_dark_dimmed)](https://github.com/Aurorp1g/aurorp1g.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Auto_Connect)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Cheqory&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Cheqory)
 <br>
 
 <div><img align="right" alt="GIF" src="/wusaqi.gif" width="170" height="auto" /></div>
 
 ### 编程语言
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=tokyonight" alt="Aurorp1g" width="350" height="250">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
 ### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=Aurorp1g&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Aurorp1g's github stats](https://github-readme-stats.vercel.app/api?username=Aurorp1g&show_icons=true&theme=tokyonight)
+[![](https://activity-graph.herokuapp.com/graph?username=Aurorp1g&theme=github_dark_dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Aurorp1g's github stats](https://github-readme-stats.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed)
 
 ### Github 贡献图
 [![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
