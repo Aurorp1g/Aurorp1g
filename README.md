@@ -57,5 +57,5 @@
 
 #
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![footer](/footer.webp)
 
