@@ -50,7 +50,12 @@
 
 ### Github 状态图 <picture style="margin-right: 10px;"><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
 [![](https://activity-graph.herokuapp.com/graph?username=Aurorp1g&theme=github_dark_dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Aurorp1g's github stats](https://github-readme-stats.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed)
+![Aurorp1g's github stats](https://github-readme-stats.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 ### Github 贡献图 <picture style="margin-right: 10px;"><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
 [![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+#
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+
