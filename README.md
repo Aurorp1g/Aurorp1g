@@ -19,7 +19,7 @@
 - 欢迎光临我的Github 🍧
 
 
-### 社交主页 <picture style="margin-right: 10px;"><img src="/IDEs.gif" width="40" alt="Statistics"></picture>
+### 社交主页 💻
 - <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="/favicon.ico"></a>：这是我的个人网站 🌐
 - <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
