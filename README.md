@@ -48,4 +48,4 @@
 ![Aurorp1g's github stats](https://github-readme-stats.vercel.app/api?username=Aurorp1g&show_icons=true&theme=tokyonight)
 
 ### Github 贡献图
-[![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
