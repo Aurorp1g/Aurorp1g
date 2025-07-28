@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aurorp1g">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=22&center=true&vCenter=true&width=1000&height=50&lines=Hello%2C+I'm+Aurorp1g;Computer+Network+Engineering+Undergraduate%20👨‍🎓;Researching+Cybersecurity%2C+Reverse+Engineering%2C+and+Programming%20👨‍💻;Welcome+to+My+Github%20🍨;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1000&height=50&lines=Hello%2C+I'm+Aurorp1g;Computer+Network+Engineering+Undergraduate%20👨‍🎓;Researching+Cybersecurity%2C+Reverse+Engineering%2C+and+Programming%20👨‍💻;Welcome+to+My+Github%20🍨;">
   </a>
 </p>
 
@@ -19,11 +19,11 @@
 - 欢迎光临我的Github 🍧
 
 
-### 社交主页 <picture style="margin-right: 10px;"><img src="/IDEs.gif" width="30" alt="Statistics"></picture>
+### 社交主页 <picture style="margin-right: 10px;"><img src="/IDEs.gif" width="40" alt="Statistics"></picture>
 - <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="/favicon.ico"></a>：这是我的个人网站 🌐
 - <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
-### 技术栈 <picture style="margin-right: 10px;"><img src="/QssGEmpkyEOhBCb7e1.webp" width="20" alt="Statistics"></picture>
+### 技术栈 <picture style="margin-right: 10px;"><img src="/QssGEmpkyEOhBCb7e1.webp" width="25" alt="Statistics"></picture>
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
