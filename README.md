@@ -35,7 +35,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
 
-### 开源项目 <picture style="margin-right: 10px;"><img src="/Software_Tools.gif" width="110" alt="Software_Tools"></picture>
+### 开源项目 <picture style="margin-right: 10px;"><img src="/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Aurorp1g.github.io&theme=github_dark_dimmed)](https://github.com/Aurorp1g/aurorp1g.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
