@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aurorp1g">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1000&height=40&lines=Hello%2C+I'm+Aurorp1g;Computer+Network+Engineering+Undergraduate%20👨‍🎓;Researching+Cybersecurity%2C+Reverse+Engineering%2C+and+Programming%20👨‍💻;Welcome+to+My+Github%20🍨;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Aurorp1g;Computer+Network+Engineering+Undergraduate%20👨‍🎓;Researching+Cybersecurity%2C+Reverse+Engineering%2C+and+Programming%20👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20👀;Welcome+to+My+Github%20🍨;">
   </a>
 </p>
 
