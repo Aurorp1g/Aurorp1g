@@ -58,4 +58,5 @@
 #
 
 ![footer](/footer.webp)
+![footer_wave](/footer_wave.svg)
 
