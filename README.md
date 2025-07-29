@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aurorp1g">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Aurorp1g;Computer+Network+Engineering+Undergraduate%20👨‍🎓;Researching+Cybersecurity%2C+Reverse+Engineering%2C+and+Programming%20👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20👀;Welcome+to+My+Github%20🍨;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+Aurorp1g;Computer+Network+Engineering+Undergraduate%20👨‍🎓;Researching+Cybersecurity%2C+Reverse+Engineering%2C+and+Programming%20👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20🚀;Welcome+to+My+Github%20🍨;">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 - 大家好，我是 Aurorp1g ，来自广东汕头🗻
 - 目前是一名网络工程在读本科生 👨‍🎓
 - 同时研究网络安全、逆向工程、编程 👨‍💻
-- 对数据结构与算法、coding、底层计算机感兴趣 👀
+- 对数据结构与算法、coding、底层计算机感兴趣 🚀
 - 欢迎光临我的Github 🍧
 
 
