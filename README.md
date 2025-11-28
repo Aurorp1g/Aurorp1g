@@ -40,6 +40,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Auto_Connect&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Auto_Connect)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Cheqory&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Cheqory)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
 <br>
 
 <div><img align="right" alt="GIF" src="/Right_Side.gif" width="300" height="auto" /></div>
