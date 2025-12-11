@@ -49,7 +49,6 @@
 <img align="center" src="https://github-readme-stats-olive-two-53.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
 ### Github 状态图 <picture style="margin-right: 10px;"><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
-[![](https://activity-graph.herokuapp.com/graph?username=Aurorp1g&theme=github_dark_dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Aurorp1g's github stats](https://github-readme-stats-olive-two-53.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 ### Github 贡献图 <picture style="margin-right: 10px;"><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
