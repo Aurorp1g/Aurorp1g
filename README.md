@@ -39,7 +39,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=ffffff )
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![pip](https://img.shields.io/badge/pip-3776AB?style=flat&logo=pypi&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
