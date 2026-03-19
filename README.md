@@ -72,7 +72,16 @@
 [![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
-
-![footer](/footer.webp)
-![footer_wave](/footer_wave.svg)
+<!-- 页脚 -->
+<div align="center">
+  <img src="/footer.webp" width="100%" />
+  <img src="/footer_wave.svg" width="100%" />
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made_with_❤️_by-Aurorp1g-00FFFF?style=flat-square" />
+  </p>
+  
+  <p><i>"Stay hungry, stay foolish. Keep coding, keep hacking."</i></p>
+  
+</div>
 
