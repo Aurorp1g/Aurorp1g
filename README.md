@@ -66,7 +66,7 @@
 <img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
 ### Github 状态图 <picture style="margin-right: 10px;"><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
-![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github&t=1)
+![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed)
 
 ### Github 贡献图 <picture style="margin-right: 10px;"><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
 [![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
